@@ -1,0 +1,16 @@
+td, th {
+    font-size: large;
+    border: solid;
+    color: black;
+}
+
+.active_page {
+    color: darkred;
+}
+
+.buttonPage {
+    color: white;
+    margin: 5px;
+    padding: 20px;
+    font-size: large;
+}
